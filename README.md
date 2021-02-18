@@ -1,16 +1,17 @@
 Connie Cote
 ============
 Executive Summary
-----------------------------------------
+------------------
 A motivated and dedicated recent Information Technology graduate
 whose bachelors includes a concentration in cyber security. Adept in the art of small group
 instruction. Experienced in providing exceptional customer service and support in diverse
 settings. Thrives under pressure and in fast paced environments. In search of a position to
 effectively apply academic foundation and practical experience.
+
 -------------------  
-Currently Relocating         
-to North Carolina            
-USA                         
+Location: Currently Relocating         
+to North Carolina, USA                         
+
 -------------------     
 📫 How to reach me: ..
 * https://www.linkedin.com/in/connie-cote/
